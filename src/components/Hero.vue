@@ -1,7 +1,7 @@
 <template>
   <!-- Hero Section -->
   <div
-    class="bg-gradient-to-r from-purple-800 to-indigo-700 h-screen flex items-center justify-center"
+    class="bg-gradient-to-r from-blue-700 to-blue-500 min-h-[90vh] flex items-center justify-center"
   >
     <div class="text-center text-white px-4">
       <h1 class="text-4xl font-extrabold sm:text-5xl md:text-6xl">Welcome to Our Website</h1>

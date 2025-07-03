@@ -1,5 +1,5 @@
 <template>
-  <div class="h-screen flex items-center justify-center sm:flex items-center max-w-screen-xl">
+  <div class="min-h-[60vh] flex items-center justify-center sm:flex items-center max-w-screen-xl">
     <div class="sm:w-1/2 p-10">
       <div class="image object-center text-center">
         <img src="https://i.imgur.com/WbQnbas.png" />

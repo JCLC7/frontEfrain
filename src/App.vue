@@ -1,18 +1,25 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
-import Navbar from './components/Navbar.vue'
-import About from './views/AboutView.vue'
-import Services from './views/ServicesVue.vue'
-import Contact from './views/ContactView.vue'
+import { computed } from 'vue'
+import { useRoute, RouterView } from 'vue-router'
+import NavBar from '@/components/NavBar.vue'
+import Footer from '@/components/Footer.vue'
+
+const route = useRoute()
+
+// Esta propiedad computada será `true` si la ruta es del CRM
+const isCrmLayout = computed(() => route.meta.layout === 'crm')
 </script>
 
 <template>
-  <header>
-    <Navbar />
-  </header>
-  <About />
-  <Services />
-  <Contact />
+  <div v-if="isCrmLayout">
+    <RouterView />
+  </div>
 
-  <RouterView />
+  <div v-else class="flex flex-col min-h-screen bg-gray-50">
+    <NavBar />
+    <main class="flex-grow">
+      <RouterView />
+    </main>
+    <Footer />
+  </div>
 </template>

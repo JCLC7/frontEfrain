@@ -5,7 +5,7 @@
     <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12">
       <div>
         <p
-          class="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-teal-900 uppercase rounded-full bg-sky-500 text-white"
+          class="inline-block px-3 py-px mb-4 text-xs font-semibold tracking-wider text-teal-900 uppercase rounded-full bg-blue-500 text-white"
         >
           Brand new
         </p>
@@ -17,7 +17,7 @@
           <svg
             viewBox="0 0 52 24"
             fill="currentColor"
-            class="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-slate-100 lg:w-32 lg:-ml-28 lg:-mt-10 sm:block"
+            class="absolute top-0 left-0 z-0 hidden w-32 -mt-8 -ml-20 text-blue-100 lg:w-32 lg:-ml-28 lg:-mt-10 sm:block"
           >
             <defs>
               <pattern
@@ -46,8 +46,8 @@
     <div class="grid max-w-md gap-8 row-gap-10 sm:mx-auto lg:max-w-full lg:grid-cols-3">
       <div class="flex flex-col sm:flex-row">
         <div class="sm:mr-4">
-          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-green-50">
-            <svg class="w-12 h-12 text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-blue-50">
+            <svg class="w-12 h-12 text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
               <polygon
                 stroke-width="3"
                 stroke-linecap="round"
@@ -67,7 +67,7 @@
           <ul class="mb-4 -ml-1 space-y-2">
             <li class="flex items-start">
               <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+                <svg class="w-5 h-5 mt-px text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
                   <polygon
                     stroke-width="4"
                     stroke-linecap="round"
@@ -81,7 +81,7 @@
             </li>
             <li class="flex items-start">
               <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+                <svg class="w-5 h-5 mt-px text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
                   <polygon
                     stroke-width="4"
                     stroke-linecap="round"
@@ -95,7 +95,7 @@
             </li>
             <li class="flex items-start">
               <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+                <svg class="w-5 h-5 mt-px text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
                   <polygon
                     stroke-width="4"
                     stroke-linecap="round"
@@ -111,15 +111,15 @@
           <a
             href="/"
             aria-label=""
-            class="inline-flex items-center font-semibold transition-colors duration-200 text-green-400 hover:text-green-800"
+            class="inline-flex items-center font-semibold transition-colors duration-200 text-blue-400 hover:text-green-800"
             >Learn more
           </a>
         </div>
       </div>
       <div class="flex flex-col sm:flex-row">
         <div class="sm:mr-4">
-          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-green-50">
-            <svg class="w-12 h-12 text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-blue-50">
+            <svg class="w-12 h-12 text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
               <polygon
                 stroke-width="3"
                 stroke-linecap="round"
@@ -139,7 +139,7 @@
           <ul class="mb-4 -ml-1 space-y-2">
             <li class="flex items-start">
               <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+                <svg class="w-5 h-5 mt-px text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
                   <polygon
                     stroke-width="4"
                     stroke-linecap="round"
@@ -153,7 +153,7 @@
             </li>
             <li class="flex items-start">
               <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+                <svg class="w-5 h-5 mt-px text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
                   <polygon
                     stroke-width="4"
                     stroke-linecap="round"
@@ -167,7 +167,7 @@
             </li>
             <li class="flex items-start">
               <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+                <svg class="w-5 h-5 mt-px text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
                   <polygon
                     stroke-width="4"
                     stroke-linecap="round"
@@ -183,15 +183,15 @@
           <a
             href="/"
             aria-label=""
-            class="inline-flex items-center font-semibold transition-colors duration-200 text-green-400 hover:text-green-800"
+            class="inline-flex items-center font-semibold transition-colors duration-200 text-blue-400 hover:text-green-800"
             >Learn more
           </a>
         </div>
       </div>
       <div class="flex flex-col sm:flex-row">
         <div class="sm:mr-4">
-          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-green-50">
-            <svg class="w-12 h-12 text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+          <div class="flex items-center justify-center w-16 h-16 mb-4 rounded-full bg-blue-50">
+            <svg class="w-12 h-12 text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
               <polygon
                 stroke-width="3"
                 stroke-linecap="round"
@@ -211,7 +211,7 @@
           <ul class="mb-4 -ml-1 space-y-2">
             <li class="flex items-start">
               <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+                <svg class="w-5 h-5 mt-px text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
                   <polygon
                     stroke-width="4"
                     stroke-linecap="round"
@@ -225,7 +225,7 @@
             </li>
             <li class="flex items-start">
               <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+                <svg class="w-5 h-5 mt-px text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
                   <polygon
                     stroke-width="4"
                     stroke-linecap="round"
@@ -239,7 +239,7 @@
             </li>
             <li class="flex items-start">
               <span class="mr-1">
-                <svg class="w-5 h-5 mt-px text-green-400" stroke="currentColor" viewBox="0 0 52 52">
+                <svg class="w-5 h-5 mt-px text-blue-400" stroke="currentColor" viewBox="0 0 52 52">
                   <polygon
                     stroke-width="4"
                     stroke-linecap="round"
@@ -255,7 +255,7 @@
           <a
             href="/"
             aria-label=""
-            class="inline-flex items-center font-semibold transition-colors duration-200 text-green-400 hover:text-green-800"
+            class="inline-flex items-center font-semibold transition-colors duration-200 text-blue-400 hover:text-green-800"
             >Learn more
           </a>
         </div>
