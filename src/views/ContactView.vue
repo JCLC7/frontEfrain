@@ -77,7 +77,7 @@ const enviarFormulario = async () => {
   }
 
   try {
-    const respuesta = await axios.post('http://localhost:3000/api/contacto', {
+    const respuesta = await axios.post('https://backefrain.onrender.com/api/contacto', {
       nombreCompleto: nombreCompleto.value,
       correo: correo.value,
       telefono: telefono.value,
