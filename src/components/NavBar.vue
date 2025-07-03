@@ -75,7 +75,7 @@ function toggleMenu() {
                   : 'text-white hover:bg-gray-700'
               "
               @click="toggleMenu"
-              :aria-expanded="isMenuOpen.toString()"
+              :aria-expanded="isMenuOpen"
             >
               <span class="sr-only">Open main menu</span>
               <svg
